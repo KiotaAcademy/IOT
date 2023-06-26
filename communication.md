@@ -6,3 +6,5 @@
 4. RFID - identifies sensors and objects
 5. Bluetooth
 6. Near Field Communication (NFC) - enable short distance exchange
+
+## MQTT/HTTP
